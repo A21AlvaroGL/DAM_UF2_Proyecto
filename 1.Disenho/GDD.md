@@ -30,7 +30,7 @@ Una vez derrotado al dragón la bola actual del jugador cambia de aspecto y todo
 
 ### Progresión
 
-Avance entre las distintas fases (si las hay) del juego.
+Activas los círculos mágicos, derrotas al dragón y así en bucle hasta que pierdas.
 
 ### GUI
 
@@ -65,13 +65,18 @@ Avance entre las distintas fases (si las hay) del juego.
 Caracterización del mundo/entorno en el que se desarrolla el videojuego (Worldbuilding). Puede incluir:
 
 - Leyes físicas
-- Historia
-- Personajes: descripción, arte,...
+  - Gravedad.
+  - Segundo Ley de Newton.
+  - Tercera Ley de Newton.
+  - Es decir, la bola se mueve y rebota por el pinball.
 - Niveles
-- Elementos culturales o geográficos
-- ...
+  - Un único mapa, que es un pinball con estética de una mazmorra.
 
 ## ASSETS
 
 - Música
+  - https://tallbeard.itch.io/three-red-hearts-prepare-to-dev
 - Efectos de sonido
+  - https://kronbits.itch.io/freesfx
+- Fuente de letra:
+  - https://www.1001fonts.com/magic-school-font.html
