@@ -78,5 +78,7 @@ Caracterización del mundo/entorno en el que se desarrolla el videojuego (Worldb
   - https://tallbeard.itch.io/three-red-hearts-prepare-to-dev
 - Efectos de sonido
   - https://kronbits.itch.io/freesfx
-- Fuente de letra:
+- Fuente de letra
   - https://www.1001fonts.com/magic-school-font.html
+- Paleta de colores
+  - https://lospec.com/palette-list/dungeon-20
